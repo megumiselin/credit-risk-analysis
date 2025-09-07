@@ -40,8 +40,8 @@ The primary goal is to support **financial institutions** in minimizing default 
 | LightGBM            | 0.69     | 0.63            | 0.46         | 0.53     | 0.66    |
 | XGBoost             | 0.66     | 0.61            | 0.39         | 0.48     | 0.65    |
 
-➡ **Best baseline**: Gradient Boosting  
-➡ **Balanced option**: LightGBM  
+**Best baseline**: Gradient Boosting  
+**Balanced option**: LightGBM  
 
 ---
 
