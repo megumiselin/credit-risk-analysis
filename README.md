@@ -67,8 +67,6 @@ The primary goal is to support **financial institutions** in minimizing default 
 
 ## 7) Business Insights  
 
-## 7) 📊 Business Insights  
-
 ### Credit amount and loan duration as strongest risk drivers  
 Higher loan amounts combined with longer repayment periods significantly increase the likelihood of default. These customer segments should be subject to stricter credit policies, including additional collateral requirements or differentiated interest rates.  
 
